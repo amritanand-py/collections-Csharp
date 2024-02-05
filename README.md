@@ -20,5 +20,5 @@
 
 ## List
 
-**List-** It is a dynamic array that is part of the System.Collections.Generic namespace in C#. It allows you to create a collection of elements of a specific type and provides dynamic resizing, making it easy to add, remove, or modify elements. Here's a basic overview of using List<T>:[more](https://github.com/amritanand-py/collections-Csharp/blob/main/List.md)
+**List-** It is a dynamic array that is part of the System.Collections.Generic namespace in C#. It allows you to create a collection of elements of a specific type and provides dynamic resizing, making it easy to add, remove, or modify elements. Here's a basic overview of using List<T>: [more](https://github.com/amritanand-py/collections-Csharp/blob/main/List.md)
 
