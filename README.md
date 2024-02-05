@@ -14,4 +14,8 @@
  - LinkedList
  - Hashset
 
- 
+## Array
+
+**Array-** It is a collection of elements of the same type stored in contiguous memory locations.
+
+[Click to know more](https://github.com/amritanand-py/collections-Csharp/blob/main/Array.md)
