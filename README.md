@@ -16,6 +16,4 @@
 
 ## Array
 
-**Array-** It is a collection of elements of the same type stored in contiguous memory locations.
-
-[Click to know more](https://github.com/amritanand-py/collections-Csharp/blob/main/Array.md)
+**Array-** Arrays are a fundamental data structure in C# and many other programming languages. In C#, an array is a collection of elements of the same type stored in contiguous memory locations. Here's a basic overview of working with arrays in C#: [more](https://github.com/amritanand-py/collections-Csharp/blob/main/Array.md)
