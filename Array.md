@@ -4,6 +4,15 @@
 
 ### Declaring and Initializing Arrays:
 
-![alt text](image.png)
+```
+// Integer array
+int[] numbers = new int[5]; // Creates an array of integers with length 5
+
+// String array
+string[] names = new string[] { "John", "Jane", "Alice" };
+
+// Integer array
+int[] number = { 1, 2, 3, 4, 5 };
+```
 
 
