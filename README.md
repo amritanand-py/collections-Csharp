@@ -20,7 +20,7 @@
 
 ## List
 
-**List-** It is a dynamic array that is part of the System.Collections.Generic namespace in C#. It allows you to create a collection of elements of a specific type and provides dynamic resizing, making it easy to add, remove, or modify elements. Here's a basic overview of using List<T>: [more](https://github.com/amritanand-py/collections-Csharp/blob/main/List.md)
+**List-** A `List<T>` is a dynamic array that is part of the `System.Collections.Generic` namespace in C#. It allows you to create a collection of elements of a specific type and provides dynamic resizing, making it easy to add, remove, or modify elements. Here's a basic overview of using `List<T>`: [more](https://github.com/amritanand-py/collections-Csharp/blob/main/List.md)
 
 ## Dictionary
 **Dictionary-** In C#, a `Dictionary<TKey, TValue>` is a collection that represents a set of key-value pairs, where each key must be unique. It is part of the `System.Collections.Generic` namespace. Here's a basic overview of working with dictionaries: [more](https://github.com/amritanand-py/collections-Csharp/blob/main/Dictionary.md)
